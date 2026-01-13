@@ -1,0 +1,7 @@
+{
+  "name": "NotebookLM PDF Restore to AI",
+  "description": "Convert static image-based PDFs (like NotebookLM exports) into fully editable PowerPoint decks using AI-powered OCR and layout reconstruction.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
